@@ -1,4 +1,4 @@
-# autojohn
+# kill-john
 This is an automation of John the Ripper to test different wordlists. The results are stored in two created files:
 - possible_passwords: Stores the possible cracked passswords
 - used_wordlists: Stores all the used wordlists
